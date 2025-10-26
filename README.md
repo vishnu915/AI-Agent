@@ -3,7 +3,7 @@ Steps :
 2. playwright install
 3. Create a folder named ai-agent 
 4. Go inside the ai-agent folder - cd desktop and go to cd ai-agent
-5. Git clone https://github.com/browser-use/web-ui...
+5. Git clone https://github.com/vishnu915/AI-Agent.git
 6. Go to cd web-ui and install uv - curl -LsSf https://astral.sh/uv/install.sh | sh
 7. Clear the command terminal and open again until web-ui folder
 8. Creates an environment - uv venv --python 3.11
@@ -13,3 +13,4 @@ Steps :
 12. You will get the ip and copy and paste the ip
 13. Go to google studio and get the gemini api and paste in the browser-ui
 14.Run Agent
+
